@@ -1,6 +1,9 @@
+<h2>README file for Programming for D.A Assignment</h2>
+</br>
+<h2><strong><i>Assignment: A study on the numpy.random package </h2></strong></i></br>
 
-<h2><strong> Valerie Walsh G00364748 </h2></strong>
-
+<h3><strong> Submitted By: Valerie Walsh G00364748 </h3></strong>
+</br></br>
 <h3> What is this repository all about? </h3>
 I have created this repository as apart of my ongoing studies within Data Analytics.
 </br>
