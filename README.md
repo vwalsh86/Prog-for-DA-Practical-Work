@@ -1,54 +1,54 @@
+<h2>README file for Programming for D.A Assignment</h2>
+</br>
+<h2><strong><i>Assignment: A study on the numpy.random package </h2></strong></i></br>
 
-<h1 align="center"><em><strong>" A study on the numpy.random package " </h1></em></strong><br/>
+<h3><strong> Submitted By: Valerie Walsh G00364748 </h3></strong>
+</br></br>
+<h3> What is this repository all about? </h3>
+I have created this repository as apart of my ongoing studies within Data Analytics.
+</br>
+The aim of this repository is to successfully investigate the numpy.random package and clearly produce and explain my findings from different aspects.</br>
+It is my intention to research and run functions of the numpy.random package to fully understand and hopefully explain the reason for these outputs.
+</br>
+This repository will contain a combination of: </br>
+<ul>
+  <li>Text</li>
+  <li>Code</li>
+  <li>Images</li>
+  <li>Graphs</li>
+</ul>
 
 </br>
-
-
-<h2 align="center"><em> Practical Work - Submitted by: </h2></em>
-<h3 align="center"><em> Valerie Walsh - Student Number: G00364748 </h3></em>
-
 </br>
 
-<h3 align="center"> Programming for Data Analytics </h3> </br>
-<h3 align="center"> Higher Diploma in Data Analytics - Galway Mayo I.T. </h3> </br>
-<h3 align="center">Submission Date: 9th November 2018 </h3> </br>
+<h3> How to run a Jupyter Notebook</h3>
+In order to run Jupyter Notebook on a machine, you need the programming language Python to be pre-installed. </br>
 
+<p><strong><i>"While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself."</i></strong></p>
+</br>
+I previously installed the Anaconda package on my computer which includes the Python language. Once I ensured I was on the latest software version of this, I was able to run Jupyter without difficulties.</br>
+If you wish to install the Anaconda package aswell, here is the link: https://www.anaconda.com/download
+</br></br>
+The Jupyter Notebook is started from within the Command Prompt or Terminal of a computer. The user enters the command 'jupyter notebook' and presses 'Enter' on their keyboard. After a few moments, the Jupyter Notebook will launch within a browser window. </br></br>
+The machine which you are using will determine the type of command window you use. </br>
+Some examples include: 
+<ul>
+  <li>Command Prompt</li>
+  <li>Terminal</li>
+  <li>Cmder</li>
+</ul>
+
+While using the Juypter Notebook, the Command window remains open in the background creating backups of your content from Jupyter. It is best practice to close all Jupyter Notebook tabs <strong>before</strong> interacting with the Command window. </br>
+In order to successfully end Jupyter press Ctrl C while in the Command window and this will fully shut down Jupyter.
+</br>
+Further information in relation to the basics of Jupyter Notebook can be found here: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 </br>
 </br>
-</br>
-</br>
 
-<h2><em> Table of Contents </h2></em>
-1. Introduction </br>
-1.1 Statement of work </br>
-1.2 Technology Used </br>
-2. Discussion </br>
-3. Findings </br>
-4. Summary </br>
-5. Appendix </br>
-6. Bibliography </br>
-
-</br>
-
-<h2><strong> 1.	Introduction </h2></strong> </br>
-
-This repository is being created to record my investigations and study of the numpy.random package.  
-
-</br>
-<h3><strong>1.1) Statement of Work </h3></strong> </br>
-
-This is a statement to confirm that the submitted work is my own which has been formulated with the aid of online research, where all references have been included and mentioned where appropriate.
-Valerie Walsh </br>
-
-<h3><strong> 1.2) Technology Used</h3></strong> <br>
-
-* Anaconda
-* Visual Studio Code
-* Jupyter Notebook
-* Python Programming Language
-* GitHub
-* Moodle page - internal college site used to access class notes and videos 
-
-<h3><strong> 2) Discussion</h3></strong> <br>
-
-<h4><strong>The purpose of the numpy.random package</h4></strong></br>
+<h3>References</h3>
+<ul>
+  <li> https://www.w3schools.com/html/html_lists.asp </li>
+  <li> http://jupyter.org/install </li>
+  <li> https://www.anaconda.com </li>
+  <li> https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html </li>
+</ul>
