@@ -45,6 +45,9 @@ Further information in relation to the basics of Jupyter Notebook can be found h
 </br>
 </br>
 
+
+<i> Include some Jupyter shortcuts for tips </i>
+
 <h3>References</h3>
 <ul>
   <li> https://www.w3schools.com/html/html_lists.asp </li>
